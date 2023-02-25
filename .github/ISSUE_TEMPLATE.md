@@ -1,9 +1,8 @@
 ---
-name: Tracking issue
-about: Use this template for tracking new features.
+name: 友链申请
+about: 提交ISSUE来申请友情链接
 title: "[DATE]: [FEATURE NAME]"
-labels: tracking issue, needs triage
-assignees: octocat
+labels: 友情链接, 考虑中
 ---
 # 一、适用域名
 ## 1. 付费顶级域名
