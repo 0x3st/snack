@@ -1,3 +1,10 @@
+---
+name: Tracking issue
+about: Use this template for tracking new features.
+title: "[DATE]: [FEATURE NAME]"
+labels: tracking issue, needs triage
+assignees: octocat
+---
 # 一、适用域名
 ## 1. 付费顶级域名
 – 适用任何可备案（不需要备案过）的域名，但不包括六位数字xyz（作为免费域名看待）。
